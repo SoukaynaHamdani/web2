@@ -47,8 +47,6 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <div>
     <a href="https://www.loom.com/share/6fcddfae81404ab9b13e626921c622c9">
        
@@ -56,7 +54,7 @@ Here's a walkthrough of implemented required features:
     <a href="https://www.loom.com/share/6fcddfae81404ab9b13e626921c622c9">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6fcddfae81404ab9b13e626921c622c9-701747e657d56ee6-full-play.gif#t=0.1">
     </a>
-  </div>
+</div>
 GIF created with loom   
 ## Notes
 
