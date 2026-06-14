@@ -46,15 +46,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+## Video Walkthrough
 
-<div>
-    <a href="https://www.loom.com/share/6fcddfae81404ab9b13e626921c622c9">
-       
-    </a>
-    <a href="https://www.loom.com/share/6fcddfae81404ab9b13e626921c622c9">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6fcddfae81404ab9b13e626921c622c9-701747e657d56ee6-full-play.gif#t=0.1">
-    </a>
-</div>
+Here's a walkthrough of implemented required features:
+
+<a href="https://www.loom.com/share/6fcddfae81404ab9b13e626921c622c9">
+  <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6fcddfae81404ab9b13e626921c622c9-701747e657d56ee6-full-play.gif#t=0.1" alt="Video Walkthrough Thumbnail">
+</a>
+
 GIF created with loom   
 ## Notes
 
