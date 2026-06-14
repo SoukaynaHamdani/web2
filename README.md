@@ -4,6 +4,8 @@ Submitted by: **Soukayna Hamdani**
 
 This web app: **is a flashcard app for testing your houseplant knowledge. It shows a set of plant-themed flashcards one at a time. Click a card to flip between the question and the answer, and click the "Next" button to jump to a random card in the set. Cards are color-coded by difficulty (Easy / Medium / Hard) and some include a photo of the plant.**
 
+
+
 Time spent: **3** hours spent in total
 
 ## Required Features
@@ -44,15 +46,18 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
+<div>
+    <a href="https://www.loom.com/share/6fcddfae81404ab9b13e626921c622c9">
+       
+    </a>
+    <a href="https://www.loom.com/share/6fcddfae81404ab9b13e626921c622c9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6fcddfae81404ab9b13e626921c622c9-701747e657d56ee6-full-play.gif#t=0.1">
+    </a>
+  </div>
+GIF created with loom   
 ## Notes
 
 Describe any challenges encountered while building the app.
